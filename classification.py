@@ -9,7 +9,7 @@ url = 'https://yf.cognitiveservices.azure.com/vision/v3.0/analyze?visualFeatures
 url_obj = 'https://yf.cognitiveservices.azure.com/vision/v3.0/detect'
 headers = {
     'content-type': 'application/octet-stream',
-    'Ocp-Apim-Subscription-Key': "39b0cb6e15354871ab6344df14b0fa7a",
+    'Ocp-Apim-Subscription-Key': "YOUR_KEY_HERE",
 }
 
 cubemapDir = "../pano-conversion/cubemaps"
